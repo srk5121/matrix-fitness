@@ -68,7 +68,7 @@ const Location = () => {
                   <td className="">
                     <p className="flex justify-between font-medium">
                       <time>
-                        5{" "}
+                        4{" "}
                         <span className="tracking-wide text-gray-500">PM</span>
                       </time>{" "}
                       <span className="text-primary">-</span>{" "}
