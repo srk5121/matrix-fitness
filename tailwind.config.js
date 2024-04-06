@@ -5,12 +5,13 @@ export default {
   theme: {
     extend: {
       screens: {
+        xs: '320px',
         widescreen: {
           raw: "(min-aspect-ratio:16/9)",
         },
       },
       colors: {
-        primary: "#fdd100",
+        primary: "#bef264",
       },
       fontFamily: {
         primary: ['"Black Ops One"', ...defaultTheme.fontFamily.sans],

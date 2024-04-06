@@ -3,7 +3,7 @@ import { LiaChevronLeftSolid, LiaChevronRightSolid } from "react-icons/lia";
 let translatePercentage = 0;
 let touchStartPosition;
 let touchEndPosition;
-const Slider = ({ images, textColor = "text-primary", color = "#fdd100" }) => {
+const Slider = ({ images, textColor = "text-primary", color = "#bef264" }) => {
   const [index, setIndex] = useState(0);
   const moveLeft = () => {
     if (index !== 0) {

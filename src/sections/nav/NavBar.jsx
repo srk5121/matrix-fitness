@@ -12,7 +12,7 @@ const NavBar = () => {
       <section className="relative flex items-center justify-between">
         <h1 className="realative z-50 p-5 font-primary text-4xl text-primary md:px-4 md:py-3 md:text-5xl">
           <a href="#hero" className="stroke">
-            ROCK
+            MATRIX
           </a>
         </h1>
 

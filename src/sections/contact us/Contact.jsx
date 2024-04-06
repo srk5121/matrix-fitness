@@ -9,25 +9,27 @@ const Contact = () => {
           <div>
             <h3 className="flex items-center gap-2">
               <BsTelephone />
-              <a href="tel:+918328118425">8328118425</a>
+              <a href="tel:+918185976876">8185976876</a>
             </h3>
             <h3 className="flex items-center gap-2">
               <FaFacebookSquare />
               <a
-                href="https://m.facebook.com/people/Rock-gymfitness-studio/100064187468074/?locale=hi_IN"
+                href="https://m.facebook.com/people/Matrix-fitness/100063803260321/?locale=ms_MY"
                 target="_blank"
               >
-                Rock Gym | Facebook
+                Matrix Fitness | Facebook
               </a>
             </h3>
           </div>
           <div>
             <address>
-              opp. Rythu bazar,
+              Narsampet Rd,
               <br />
-              Shivaji Nagar, Siddipet,
+              opp. RTC BUSTAND,
               <br />
-              Telangana 502103
+              Mahabubabad,
+              <br />
+              Telangana 506101
             </address>
           </div>
           <div>

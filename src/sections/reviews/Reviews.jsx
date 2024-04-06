@@ -99,7 +99,7 @@ const Reviews = () => {
                               {review.lastName}
                             </span>
                           </h3>
-                          <div className="flex gap-1 text-primary">
+                          <div className="flex gap-1 text-[#fdd100]">
                             <FaStar />
                             <FaStar />
                             <FaStar />
@@ -110,7 +110,7 @@ const Reviews = () => {
                       </div>
 
                       <div className="">
-                        <p className=" break-word no-scrollbar aspect-[3/2] overflow-y-scroll text-neutral-200 md:aspect-auto">
+                        <p className=" no-scrollbar aspect-[4/2] overflow-y-scroll break-words text-neutral-200 md:aspect-auto">
                           {review.text}
                         </p>
                       </div>
@@ -140,7 +140,7 @@ const Reviews = () => {
                 >
                   <span
                     style={{
-                      borderColor: `${index === i ? "#fdd100" : "#6b7280"} `,
+                      borderColor: `${index === i ? "#bef264" : "#6b7280"} `,
                     }}
                     className=" inline-block rounded-full border-4 border-gray-500"
                     id={i}
